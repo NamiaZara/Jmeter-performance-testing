@@ -1,0 +1,4 @@
+*.log
+# Ignore JMeter result and report files
+dmoney.jtl
+Reports/
